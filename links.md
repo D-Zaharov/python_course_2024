@@ -16,3 +16,10 @@
 
 * Основная информация по python: https://pythonworld.ru/samouchitel-python
 * Видеокурс на степике по python: https://stepik.org/course/67/promo
+
+## дополнительный материал по функциям
+
+* Генераторы 1 https://sky.pro/media/chto-takoe-generatory-i-kak-ih-ispolzovat-v-python/
+* Генераторы 2 (более подробно) https://skillbox.ru/media/code/generatory_python_chto_eto_takoe_i_zachem_oni_nuzhny/
+* Декораторы 1 https://sky.pro/media/chto-takoe-dekoratory-v-python/
+* декораторы 2 https://skillbox.ru/media/code/gotovimsya_k_sobesedovaniyu_chto_takoe_dekoratory_v_python/
