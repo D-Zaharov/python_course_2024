@@ -35,3 +35,32 @@
 
 * numpy 100 https://pythonworld.ru/numpy/100-exercises.html
 * pandas 100 https://www.kaggle.com/code/npscul/learn-pandas-100-exercises
+
+## Базы данных
+
+* sqlite https://www.sqlite.org/
+* sqlite3 https://docs.python.org/3/library/sqlite3.html
+* скачать postgres https://www.postgresql.org/download/
+* psycopg2 https://www.psycopg.org/docs/
+* Mongo DB https://www.mongodb.com/
+* pymongo https://www.mongodb.com/resources/languages/pymongo-tutorial
+* clickhouse https://clickhouse.com/docs/ru/getting-started/install
+* clickhouse driver https://clickhouse-driver.readthedocs.io/en/latest/
+
+## Тестирование
+
+* pytest * https://docs.pytest.org/en/stable/
+* доклад яндекса о тестировании в питоне https://habr.com/ru/companies/yandex/articles/517266/
+* введение в тестирование unittest и pytest https://tproger.ru/articles/testiruem-na-python-unittest-i-pytest-instrukcija-dlja-nachinajushhih
+
+## Визуализация
+
+* matplotlib https://matplotlib.org/
+* seaborn https://seaborn.pydata.org/
+* знакомство с matplotlib https://skillbox.ru/media/code/biblioteka-matplotlib-dlya-postroeniya-grafikov/
+* глубокое понимание matplotlib https://pythonworld.ru/novosti-mira-python/scientific-graphics-in-python.html
+* введение в seaborn https://blog.skillfactory.ru/glossary/seaborn/
+
+## Докер
+
+* запуск питона из-под docker https://dev-gang.ru/article/zapusk-python-v-docker-razmesczenie-scenarija-python-v-docker-u7i8cuiamb/
